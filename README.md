@@ -1,4 +1,8 @@
-<p align="left">Hi, I am Luis Costantin. Born in Brazil, based in Portugal, I am passionate about culture, technology and sports. I went to engineering school, and later in life found my passion in coding. I am on my way to becoming a fullstack JavaScript developer, looking for daily opportunities to learn and improve my skills.</p>
+<h2 align="left">Hi, I am Luis Costantin.</h2>
+
+###
+
+<p align="left">Born in Brazil, based in Portugal, I am passionate about culture, technology and sports. I went to engineering school, and later in life found my passion in coding. I am on my way to becoming a fullstack JavaScript developer, looking for daily opportunities to learn and improve my skills.</p>
 
 ###
 
